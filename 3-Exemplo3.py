@@ -1,0 +1,1 @@
+print('O resultado da soma é: ', 20+35)
