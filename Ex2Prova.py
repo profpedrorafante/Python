@@ -12,3 +12,4 @@ for i in range(0,10):
         cont = cont+1
 
 print(cont)
+#Esse codigo estava errado
